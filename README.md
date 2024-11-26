@@ -1,0 +1,1 @@
+Plik gitignore zawiera linijkę .vs -> jest to folder którego dodanie powoduje generację błędów, a nie jest on istotny w projekcie, ponieważ są to tylko pliki visual studio niemające wpływu na działanie programu.
